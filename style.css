@@ -1,0 +1,51 @@
+* {
+font-family: Tahoma, Verdana, sans-serif;
+}
+h1 {font-family: "Times New Roman", Times, serif;}
+
+.btn {
+	background-color: #cae9f5;
+	color: darkblue;
+	border: 2px solid darkblue;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.rounded {border-radius: 10px;}
+
+table {
+	margin: 0px auto;
+	margin-top: 5px;
+	}
+table, th, td {
+	border: 1px solid black;
+	border-spacing: 0px;
+	}
+th, td {padding: 5px;}	
+th {
+	background-color: #afdceb;
+	color:darkblue;
+	}
+tr {
+	background-color: #cae9f5;
+	color:blue;
+	}
+
+.bigicon {
+	font-size:100px;
+	}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  
+}
+
